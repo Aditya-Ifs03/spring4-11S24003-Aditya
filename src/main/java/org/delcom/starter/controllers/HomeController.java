@@ -464,5 +464,5 @@ public class HomeController {
             sb.append("Jumlah Terendah: ").append(jrVal).append(" * ").append(jrCount).append(" = ").append(jrProd);
         }
         return sb.toString().trim();
-    }   
+    }
 }
