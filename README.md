@@ -7,7 +7,7 @@
 - Melakukan inisialisasi proyek
 - menambahkan method 'sayHello()' pada HomeController
 = Menambahkan Pengujian untuk method ' sayHello()'
--  update 
+-  update fix
 
 ## Syntax
 
